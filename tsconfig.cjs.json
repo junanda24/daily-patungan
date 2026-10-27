@@ -1,0 +1,1 @@
+{"compilerOptions":{"module":"CommonJS","moduleResolution":"bundler","outDir":"dist/cjs"},"exclude":["node_modules","dist","test"],"extends":"./tsconfig.json"}
